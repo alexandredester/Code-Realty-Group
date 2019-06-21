@@ -1,7 +1,7 @@
 # Code-Realty-Group
 # langage utiliser :
-- HTML 
-- CSS
+- html
+- css
 
 # TITULAIRE DE L'APPLICATION : 
  - DESTER ALEXANDRE 
